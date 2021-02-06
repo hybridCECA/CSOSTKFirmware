@@ -6,4 +6,4 @@ Instructions:
 
 2. Edit qmk_firmware/keyboards/CSOSTK/rev2/config.h and uncomment the BACKLIGHT_PINS line for the side you are flashing.
 
-3. Run CompileFlash.sh
+3. Edit and run CompileFlash.sh
